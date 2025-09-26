@@ -26,7 +26,7 @@ body {
     width: 100%;
     max-width: 1920px;
     height: 849px;
-    background: linear-gradient(0deg, rgba(51, 47, 47, 0.6), rgba(51, 47, 47, 0.6)), url(/public/images/hero-bg.jpg);
+    background: linear-gradient(0deg, rgba(51, 47, 47, 0.6), rgba(51, 47, 47, 0.6)), url(public/images/hero-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -74,7 +74,7 @@ body {
 .hero__signature {
     width: 159.43px;
     height: 80px;
-    background-image: url('/public/images/signature.svg');
+    background-image: url('public/images/signature.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -87,7 +87,7 @@ body {
     top: 193px;
     width: 455px;
     height: 506px;
-    background-image: url('/public/images/author-photo.jpg');
+    background-image: url('public/images/author-photo.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -136,15 +136,15 @@ body {
 }
 
 .hero__social-link:nth-child(1) .hero__social-icon {
-    background-image: url('/public/images/facebook-icon.svg');
+    background-image: url('public/images/facebook-icon.svg');
 }
 
 .hero__social-link:nth-child(2) .hero__social-icon {
-    background-image: url('/public/images/youtube-icon.svg');
+    background-image: url('public/images/youtube-icon.svg');
 }
 
 .hero__social-link:nth-child(3) .hero__social-icon {
-    background-image: url('/public/images/instagram-icon.svg');
+    background-image: url('public/images/instagram-icon.svg');
 }
 
 .hero__social-link span {
@@ -192,7 +192,7 @@ body {
     top: 220px;
     width: 53.52px;
     height: 178.3px;
-    background-image: url('/public/images/decoration.svg');
+    background-image: url('public/images/decoration.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -203,7 +203,7 @@ body {
     top: 0;
     width: 80px;
     height: 80px;
-    background-image: url('/public/images/quotes.svg');
+    background-image: url('public/images/quotes.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -211,7 +211,7 @@ body {
 .quote__background {
     width: 754px;
     height: 613px;
-    background-image: url('/public/images/quote-bg-71991b.jpg');
+    background-image: url('public/images/quote-bg-71991b.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -221,7 +221,7 @@ body {
     width: 100%;
     max-width: 1920px;
     padding: 204px 80px;
-    background-image: url('/public/images/category-bg.jpg');
+    background-image: url('public/images/category-bg.jpg');
     /* background-color: rgba(0,0,0,0.4);
     background-blend-mode: darken; */
     position: relative;
@@ -273,7 +273,7 @@ body {
     bottom: 35px;
     width: 38px;
     height: 22px;
-    background-image: url('/public/images/arrow-icon.svg');
+    background-image: url('public/images/arrow-icon.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -432,7 +432,7 @@ body {
 .subscription__download-icon {
     width: 24px;
     height: 24px;
-    background-image: url('/public/images/download-icon.svg');
+    background-image: url('public/images/download-icon.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -469,7 +469,7 @@ body {
     top: 0px;
     width: 390.5px;
     height: 770px;
-    background-image: url('/public/images/poetry-bg.jpg');
+    background-image: url('public/images/poetry-bg.jpg');
     background-size: cover;
     background-position: center;
     opacity: 0.2;
@@ -580,7 +580,7 @@ body {
 .footer__copyright-icon {
     width: 18px;
     height: 18px;
-    background-image: url('/public/images/copyright-icon.svg');
+    background-image: url('public/images/copyright-icon.svg');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -639,7 +639,7 @@ body {
         width: 100%;
         max-width: 450px;
         height: 722px;
-        background: linear-gradient(0deg, rgba(51, 47, 47, 0.6), rgba(51, 47, 47, 0.6)), url(/public/images/hero-bg.jpg);
+        background: linear-gradient(0deg, rgba(51, 47, 47, 0.6), rgba(51, 47, 47, 0.6)), url(public/images/hero-bg.jpg);
         background-size: cover;
         background-position: center;
         position: relative;
@@ -774,7 +774,7 @@ body {
     .quote__background {
         width: 100%;
         height: 300px;
-        background-image: url('/public/images/quote-bg-71991b.jpg');
+        background-image: url('public/images/quote-bg-71991b.jpg');
         background-size: cover;
         background-position: center;
         margin-bottom: 70px;
@@ -874,7 +874,7 @@ body {
         order: 2;
         width: 177.5px;
         height: 225px;
-        background-image: url('/public/images/poetry-bg-mobile-41fb12.jpg');
+        background-image: url('public/images/poetry-bg-mobile-41fb12.jpg');
     }
 
     .poetry__poem-of-day {
